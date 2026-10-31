@@ -48,32 +48,32 @@ Total deals tracked: **19**
 
 ### 2026 (10 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-06-22 | 40% Off All Futures Challenge Pricing | 40% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/) |
-| 2026-05-25 | 40% Off All Futures Accounts Challenge Pricing | 40% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-all-accounts/) |
-| 2026-05-02 | 35% Off All Futures Evaluation Plans | 35% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-35-off-plans/) |
-| 2026-04-21 | 35% Off All Evaluation Accounts | 35% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-35-off-all-plans/) |
-| 2026-04-15 | Up to 45% Off Forex and 35% Off Futures Evaluation Cost | 45% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-launch-discount/) |
-| 2026-04-01 | 60% Discount on Evaluation Accounts | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-discount/) |
-| 2026-02-13 | Valentine's Day Promotion: 70% Off Evaluation Entry Fees | 70% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-valentines-day-70-percent-off/) |
-| 2026-02-05 | 70% Off Futures Evaluation Accounts: February Cost Reduction | 70% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-70-percent-off-february/) |
-| 2026-01-13 | Winter Sale: 60% OFF All Accounts | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-winter-sale-60-off/) |
-| 2026-01-06 | New Year Offer: 60% OFF All Evaluation Accounts | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-06-22 | 40% Off All Futures Challenge Pricing | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/) |
+| 2026-05-25 | 40% Off All Futures Accounts Challenge Pricing | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-all-accounts/) |
+| 2026-05-02 | 35% Off All Futures Evaluation Plans | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-35-off-plans/) |
+| 2026-04-21 | 35% Off All Evaluation Accounts | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-35-off-all-plans/) |
+| 2026-04-15 | Up to 45% Off Forex and 35% Off Futures Evaluation Cost | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-launch-discount/) |
+| 2026-04-01 | 60% Discount on Evaluation Accounts | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-discount/) |
+| 2026-02-13 | Valentine's Day Promotion: 70% Off Evaluation Entry Fees | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-valentines-day-70-percent-off/) |
+| 2026-02-05 | 70% Off Futures Evaluation Accounts: February Cost Reduction | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-70-percent-off-february/) |
+| 2026-01-13 | Winter Sale: 60% OFF All Accounts | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-winter-sale-60-off/) |
+| 2026-01-06 | New Year Offer: 60% OFF All Evaluation Accounts | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/) |
 
 ### 2025 (9 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2025-12-29 | New Year Deal: 60% Off All Accounts | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-deal-60-off/) |
-| 2025-12-11 | Christmas Offer: 60% OFF All Challenges | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-christmas-60-off/) |
-| 2025-12-01 | Cyber Monday: 60% OFF + Two Accounts Deal | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-cyber-monday-60-off-two-accounts/) |
-| 2025-11-23 | Black Friday Sale: 60% OFF + BOGO Reward | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-black-friday-60-off-bogo/) |
-| 2025-11-03 | 60% OFF — Save on All Accounts (Limited Time) | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-all-accounts-limited-time/) |
-| 2025-10-18 | 60% OFF All Accounts (Halloween) | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-all-accounts-halloween/) |
-| 2025-10-08 | 50% Off + BOGO on Standard Challenges | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-50-off-bogo-on-standard-challenges/) |
-| 2025-10-08 | 50% Off All Instant Plans (No Evaluation) | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-50-off-all-instant-plans-no-evaluation/) |
-| 2025-09-23 | 60% OFF Futures Accounts + Keep 100% of First $15K | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-futures-accounts-keep-100-of-first-15k/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2025-12-29 | New Year Deal: 60% Off All Accounts | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-deal-60-off/) |
+| 2025-12-11 | Christmas Offer: 60% OFF All Challenges | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-christmas-60-off/) |
+| 2025-12-01 | Cyber Monday: 60% OFF + Two Accounts Deal | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-cyber-monday-60-off-two-accounts/) |
+| 2025-11-23 | Black Friday Sale: 60% OFF + BOGO Reward | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-black-friday-60-off-bogo/) |
+| 2025-11-03 | 60% OFF — Save on All Accounts (Limited Time) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-all-accounts-limited-time/) |
+| 2025-10-18 | 60% OFF All Accounts (Halloween) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-all-accounts-halloween/) |
+| 2025-10-08 | 50% Off + BOGO on Standard Challenges | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-50-off-bogo-on-standard-challenges/) |
+| 2025-10-08 | 50% Off All Instant Plans (No Evaluation) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-50-off-all-instant-plans-no-evaluation/) |
+| 2025-09-23 | 60% OFF Futures Accounts + Keep 100% of First $15K | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-futures-accounts-keep-100-of-first-15k/) |
 
 ---
 
@@ -100,6 +100,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
