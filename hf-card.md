@@ -1,44 +1,67 @@
 ---
 license: other
+pretty_name: Blue Guardian Futures Discount Code
 configs:
 - config_name: blue-guardian-futures-deals
   data_files:
   - split: data
     path: datasets/blue-guardian-futures-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - blue-guardian-futures
 ---
 
-# Blue Guardian Futures - Discount Codes & Deal History
+# Blue Guardian Futures Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-06-22, Blue Guardian Futures deals run up to 35% OFF with code PFD, which works any time — the newest is **40% Off All Futures Challenge Pricing**.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/blue-guardian-futures/
+> At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best. Built by traders, for traders, our goal is simple: to bridge the gap between skill and opportunity.
+> Many skilled traders never reach their potential because they lack access to meaningful capital. Blue Guardian removes that barrier — giving disciplined traders the chance to prove their edge, earn funding, and scale their performance without risking their own capital.
+>
+> — Blue Guardian Futures, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/blueguardianfutures.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 35% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-06-22
+- Trustpilot: 3.7/5 (1650 reviews)
+- Activate: https://propfirmdiscount.com/go/blueguardianfutures
+- Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian-futures/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **35% off** on Blue Guardian Futures challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Blue Guardian Futures evaluation accounts.
+## Current Blue Guardian Futures deal: 40% Off All Futures Challenge Pricing
+
+- Published: 2026-06-22
+- Offer ends: Ended
+- Offer: 40% off
+- Scope: All Futures Accounts, Standard, Pro, Rapid, Instant, 25K, 50K, 100K, 150K
+- Code: PFD
+- Deal page: https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/
+
+## Blue Guardian Futures discount code FAQ
+
+**What is the Blue Guardian Futures discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 35% off Blue Guardian Futures challenges and accounts.
+
+**Does the Blue Guardian Futures discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Blue Guardian Futures deal?**
+
+**40% Off All Futures Challenge Pricing** — published 2026-06-22. Offer ends: Ended. The offer is 40% off.
 
 ---
 
-## Latest Deal
-
-### Blue Guardian Futures - 40% Off All Futures Challenge Pricing
-
-**Published:** 2026-06-22  
-**Offer ends:** Ended  
-**Discount:** 40% off  
-**Scope:** All Futures Accounts, Standard, Pro, Rapid, Instant, 25K, 50K, 100K, 150K  
-**Code:** PFD  
-
-**Deal page:** https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **19**
 
@@ -73,19 +96,20 @@ Total deals tracked: **19**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Blue Guardian Futures** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Blue Guardian Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/blue-guardian-futures/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/blue-guardian-futures/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
