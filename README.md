@@ -1,6 +1,6 @@
 # Blue Guardian Futures Discount Code
 
-As of 2026-06-22, Blue Guardian Futures deals run up to 35% OFF with code PFD, which works any time — the newest is **40% Off All Futures Challenge Pricing**.
+As of 2026-06-22, Blue Guardian Futures deals run up to 35% OFF with code PFD, which works any time — the newest is 40% Off All Futures Challenge Pricing.
 
 > At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best. Built by traders, for traders, our goal is simple: to bridge the gap between skill and opportunity.
 > Many skilled traders never reach their potential because they lack access to meaningful capital. Blue Guardian removes that barrier — giving disciplined traders the chance to prove their edge, earn funding, and scale their performance without risking their own capital.
