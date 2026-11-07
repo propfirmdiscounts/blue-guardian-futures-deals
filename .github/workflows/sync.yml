@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: blue-guardian-futures-discount-codes
+  HF_NAMESPACE: propfirmdiscount
+  HF_REPO_NAME: blue-guardian-futures-deals
   FIRM_SLUG: blue-guardian-futures
   DEALSTORE_ID: 2
   FIRM_NAME: Blue Guardian Futures
