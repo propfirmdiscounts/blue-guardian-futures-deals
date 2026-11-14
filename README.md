@@ -1,6 +1,6 @@
 # Blue Guardian Futures - Discount Codes & Deal History
 
-As of 2026-06-22, Blue Guardian Futures deals run up to 35% OFF with code PFD, which works any time — the newest is 40% Off All Futures Challenge Pricing.
+As of 2026-11, Blue Guardian Futures deals run 35% OFF with code PFD, which works any time — the newest is 40% Off All Futures Challenge Pricing.
 
 > At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best. Built by traders, for traders, our goal is simple: to bridge the gap between skill and opportunity.
 > Many skilled traders never reach their potential because they lack access to meaningful capital. Blue Guardian removes that barrier — giving disciplined traders the chance to prove their edge, earn funding, and scale their performance without risking their own capital.
@@ -8,7 +8,7 @@ As of 2026-06-22, Blue Guardian Futures deals run up to 35% OFF with code PFD, w
 > — Blue Guardian Futures, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/blueguardianfutures.com)
 
 - Code: PFD
-- Discount: Up to 35% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian Futures deal, whatever form that deal is stated in)
+- Discount: 35% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian Futures deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-06-22
 - Trustpilot: 3.6/5 (1580 reviews)
@@ -17,7 +17,7 @@ As of 2026-06-22, Blue Guardian Futures deals run up to 35% OFF with code PFD, w
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Blue Guardian Futures deal: 40% Off All Futures Challenge Pricing
+## Current Blue Guardian Futures deal: 40% Off All Futures Challenge Pricing with code PFD
 
 - Published: 2026-06-22
 - Offer ends: Ended
@@ -30,7 +30,7 @@ As of 2026-06-22, Blue Guardian Futures deals run up to 35% OFF with code PFD, w
 
 **What is the Blue Guardian Futures discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 35% off Blue Guardian Futures challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 35% off Blue Guardian Futures challenges and accounts.
 
 **Does the Blue Guardian Futures discount code expire?**
 
@@ -38,7 +38,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Blue Guardian Futures deal?**
 
-**40% Off All Futures Challenge Pricing** — published 2026-06-22. Offer ends: Ended. The offer is 40% off.
+**40% Off All Futures Challenge Pricing with code PFD** — published 2026-06-22. Offer ends: Ended. The offer is 40% off.
 
 ---
 
@@ -50,30 +50,30 @@ Total deals tracked: **19**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-06-22 | 40% Off All Futures Challenge Pricing | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/) |
-| 2026-05-25 | 40% Off All Futures Accounts Challenge Pricing | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-all-accounts/) |
-| 2026-05-02 | 35% Off All Futures Evaluation Plans | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-35-off-plans/) |
-| 2026-04-21 | 35% Off All Evaluation Accounts | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-35-off-all-plans/) |
-| 2026-04-15 | Up to 45% Off Forex and 35% Off Futures Evaluation Cost | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-launch-discount/) |
-| 2026-04-01 | 60% Discount on Evaluation Accounts | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-discount/) |
-| 2026-02-13 | Valentine's Day Promotion: 70% Off Evaluation Entry Fees | 70% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-valentines-day-70-percent-off/) |
-| 2026-02-05 | 70% Off Futures Evaluation Accounts: February Cost Reduction | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-70-percent-off-february/) |
-| 2026-01-13 | Winter Sale: 60% OFF All Accounts | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-winter-sale-60-off/) |
-| 2026-01-06 | New Year Offer: 60% OFF All Evaluation Accounts | 60% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/) |
+| 2026-06-22 | Blue Guardian Futures: 40% Off All Futures Challenge Pricing with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/) |
+| 2026-05-25 | Blue Guardian Futures: 40% Off All Futures Accounts Challenge Pricing with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-all-accounts/) |
+| 2026-05-02 | Blue Guardian Futures: 35% Off All Futures Evaluation Plans with code PFD | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-35-off-plans/) |
+| 2026-04-21 | Blue Guardian Futures: 35% Off All Evaluation Accounts with code PFD | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-35-off-all-plans/) |
+| 2026-04-15 | Blue Guardian Futures: Up to 45% Off Forex and 35% Off Futures Evaluation Cost with code PFD | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-launch-discount/) |
+| 2026-04-01 | Blue Guardian Futures: 60% Discount on Evaluation Accounts with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-discount/) |
+| 2026-02-13 | Blue Guardian Futures: Valentine's Day Promotion: 70% Off Evaluation Entry Fees with code PFD | 70% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-valentines-day-70-percent-off/) |
+| 2026-02-05 | Blue Guardian Futures: 70% Off Futures Evaluation Accounts: February Cost Reduction with code PFD | 70% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-70-percent-off-february/) |
+| 2026-01-13 | Blue Guardian Futures: Winter Sale: 60% OFF All Accounts with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-winter-sale-60-off/) |
+| 2026-01-06 | Blue Guardian Futures: New Year Offer: 60% OFF All Evaluation Accounts with code PFD | 60% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-60-off/) |
 
 ### 2025 (9 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-29 | New Year Deal: 60% Off All Accounts | 60% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-deal-60-off/) |
-| 2025-12-11 | Christmas Offer: 60% OFF All Challenges | 60% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-christmas-60-off/) |
-| 2025-12-01 | Cyber Monday: 60% OFF + Two Accounts Deal | 60% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-cyber-monday-60-off-two-accounts/) |
-| 2025-11-23 | Black Friday Sale: 60% OFF + BOGO Reward | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-black-friday-60-off-bogo/) |
-| 2025-11-03 | 60% OFF — Save on All Accounts (Limited Time) | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-all-accounts-limited-time/) |
-| 2025-10-18 | 60% OFF All Accounts (Halloween) | 60% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-all-accounts-halloween/) |
-| 2025-10-08 | 50% Off + BOGO on Standard Challenges | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-50-off-bogo-on-standard-challenges/) |
-| 2025-10-08 | 50% Off All Instant Plans (No Evaluation) | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-50-off-all-instant-plans-no-evaluation/) |
-| 2025-09-23 | 60% OFF Futures Accounts + Keep 100% of First $15K | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-futures-accounts-keep-100-of-first-15k/) |
+| 2025-12-29 | Blue Guardian Futures: New Year Deal: 60% Off All Accounts with code PFD | 60% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-new-year-deal-60-off/) |
+| 2025-12-11 | Blue Guardian Futures: Christmas Offer: 60% OFF All Challenges with code PFD | 60% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-christmas-60-off/) |
+| 2025-12-01 | Blue Guardian Futures: Cyber Monday: 60% OFF + Two Accounts Deal with code PFD | 60% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-cyber-monday-60-off-two-accounts/) |
+| 2025-11-23 | Blue Guardian Futures: Black Friday Sale: 60% OFF + BOGO Reward with code PFD | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-black-friday-60-off-bogo/) |
+| 2025-11-03 | Blue Guardian Futures: 60% OFF — Save on All Accounts (Limited Time) with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-all-accounts-limited-time/) |
+| 2025-10-18 | Blue Guardian Futures: 60% OFF All Accounts (Halloween) with code PFD | 60% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-all-accounts-halloween/) |
+| 2025-10-08 | Blue Guardian Futures: 50% Off + BOGO on Standard Challenges with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-50-off-bogo-on-standard-challenges/) |
+| 2025-10-08 | Blue Guardian Futures: 50% Off All Instant Plans (No Evaluation) with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-50-off-all-instant-plans-no-evaluation/) |
+| 2025-09-23 | Blue Guardian Futures: 60% OFF Futures Accounts + Keep 100% of First $15K with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-60-off-futures-accounts-keep-100-of-first-15k/) |
 
 ---
 
