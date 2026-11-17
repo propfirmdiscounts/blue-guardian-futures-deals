@@ -1,4 +1,4 @@
-# Blue Guardian Futures Discount Codes
+# Blue Guardian Futures Discount Code & Deals History
 
 This dataset tracks historical deal observations for Blue Guardian Futures from PropFirmDiscount.com.
 

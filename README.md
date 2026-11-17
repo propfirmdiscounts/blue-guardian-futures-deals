@@ -1,4 +1,4 @@
-# Blue Guardian Futures Discount Code & Deal History
+# Blue Guardian Futures Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Blue Guardian Futures discount code is PFD — 35% OFF, which can be applied on the checkout page anytime. The newest is "40% Off All Futures Challenge Pricing with code PFD".
 
@@ -12,7 +12,7 @@ As of November 2026, the verified Blue Guardian Futures discount code is PFD —
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-06-22
 - Trustpilot: [3.6/5 (1577 reviews)](https://www.trustpilot.com/review/blueguardianfutures.com)
-- GitHub repository: [Blue Guardian Futures Deals Repository](https://github.com/propfirmdiscounts/blue-guardian-futures-deals)
+- GitHub repository: [Blue Guardian Futures Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/blue-guardian-futures-deals)
 - Activate: [Activate Blue Guardian Futures Discount Code](https://propfirmdiscount.com/go/blueguardianfutures)
 - Firm page: [Blue Guardian Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/blue-guardian-futures/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -27,7 +27,7 @@ As of November 2026, the verified Blue Guardian Futures discount code is PFD —
 - Code: PFD
 - Deal page: [Blue Guardian Futures Deal Page](https://propfirmdiscount.com/deals/blue-guardian-futures/blue-guardian-futures-40-off-anniversary/)
 
-## Blue Guardian Futures Discount Code & Deals FAQ
+## Blue Guardian Futures Discount Code & Deals History FAQ
 
 **What is the Blue Guardian Futures discount code?**
 
@@ -43,7 +43,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Blue Guardian Futures Deal History
+## Blue Guardian Futures Deals History
 
 Total deals tracked: **19**
 
@@ -78,7 +78,7 @@ Total deals tracked: **19**
 
 ---
 
-## About the Blue Guardian Futures Deals Dataset
+## About the Blue Guardian Futures Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Blue Guardian Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -86,7 +86,7 @@ This repository mirrors every deal **Blue Guardian Futures** has published on Pr
 - Prop firm profile: [Blue Guardian Futures Profile](https://propfirmdiscount.com/prop-firm/blue-guardian-futures/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Blue Guardian Futures Deal Dataset: Field Definitions
+## Blue Guardian Futures Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
